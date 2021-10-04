@@ -2,12 +2,12 @@
   <img align="center" src="https://github.com/ShubhamManna/ShubhamManna/blob/main/introGIF.gif" height="400px">
 </div>
 
-<h3 align="center">Hi! 👋 Happy to see you here 😄</h3>
-<h4 align="center">I am Shubham Manna (people call me Manna), currently pursuing my bachelor's degree majoring in Electronics and Communication from Vellore Institute of Technology, Chennai. I am a Tech Enthusiast & have a high passion in creating things in wide range of fields: from AppDev to signal processing algorithms, from Robotics to Cybersecurity stuffs...</h4>
-<h4 align="center">I am always open to collaborating on projects and innovative/disruptive ideas. </h4>
+<h2 align="center">Hi! 👋 Happy to see you here 😄</h2>
+<h3 align="center">I am Shubham Manna (people call me Manna), currently pursuing my bachelor's degree majoring in Electronics and Communication from Vellore Institute of Technology, Chennai. I am a Tech Enthusiast & have a high passion in creating things in wide range of fields: from AppDev to signal processing algorithms, from Robotics to Cybersecurity stuffs...</h3>
+<h3 align="center">I am always open to collaborating on projects and innovative/disruptive ideas. </h3>
 
 ---
-<h3 align="center">Technologies I have worked with 🚧</h3>
+<h2 align="center">Technologies I have worked with 🚧</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -35,7 +35,7 @@
 
 ---
 
-<h4 align="center">Find out more about me & feel free to connect with me here ✨</h4>
+<h3 align="center">Find out more about me & feel free to connect with me here ✨</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/shubham-manna-163a31136/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/shubhammaanna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="25px" alt="Instagram"></a>
