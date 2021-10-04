@@ -1,1 +1,1 @@
-<h1 align="center">HI! :wave:, I'm Shubham Manna</h1>
+<h1 align="center">Hi! :wave:, I'm Shubham Manna</h1>
