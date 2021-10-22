@@ -3,7 +3,7 @@
 </div>
 <h2 align="center">Hi! 👋 Happy to see you here 😄</h2>
 <h4 align="center">I am Shubham Manna, currently pursuing my B.Tech in ECE from Vellore Institute of Technology, Chennai. I am a Tech Enthusiast & have a high passion in creating things in wide range of fields: from AppDev to signal processing algorithms, from Robotics to Cybersecurity stuffs...</h4>
-<h3 align="center">I am always open to collaborating on projects and innovative/disruptive ideas. </h3>
+<h3 align="center"><i>I am always open to collaborating on projects and innovative/disruptive ideas. </i></h3>
 
 ---
 <h3 align="center">Skills and Languages 🚧</h3>
