@@ -1,13 +1,12 @@
 <div align="center">
-  <img align="center" src="https://github.com/ShubhamManna/ShubhamManna/blob/main/introGIF.gif" height="400px">
+  <img align="right" src="https://github.com/ShubhamManna/ShubhamManna/blob/main/introGIF.gif" height="270px">
 </div>
-
 <h2 align="center">Hi! 👋 Happy to see you here 😄</h2>
-<h3 align="center">I am Shubham Manna (people call me Manna), currently pursuing my B.Tech in ECE from Vellore Institute of Technology, Chennai. I am a Tech Enthusiast & have a high passion in creating things in wide range of fields: from AppDev to signal processing algorithms, from Robotics to Cybersecurity stuffs...</h3>
+<h4 align="center">I am Shubham Manna, currently pursuing my B.Tech in ECE from Vellore Institute of Technology, Chennai. I am a Tech Enthusiast & have a high passion in creating things in wide range of fields: from AppDev to signal processing algorithms, from Robotics to Cybersecurity stuffs...</h4>
 <h3 align="center">I am always open to collaborating on projects and innovative/disruptive ideas. </h3>
 
 ---
-<h2 align="center">Technologies I have worked with 🚧</h2>
+<h3 align="center">Skills and Languages 🚧</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
